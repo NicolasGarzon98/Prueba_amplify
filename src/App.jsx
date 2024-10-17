@@ -22,7 +22,11 @@ function App() {
           count is {count}
         </button>
         <p>
+<<<<<<< HEAD
           Esta funcionando como yo lo configuro, ahora desde el ipad
+=======
+          Esta funcionando como yo lo configuro x2
+>>>>>>> e607e90a9ce0c83aad6293ba75948b42655e1600
         </p>
       </div>
       <p className="read-the-docs">
